@@ -1,6 +1,6 @@
 #### Desktop-App zur Modellierung der Küstenozeandynamik und geschrieben in JavaFX (Desktop app which models coastal ocean dynamics and written in JavaFX)
 
-* The appplication models coastal ocean dynamics such as tsunamis, tides, and storm surges utilizing Shallow Water Equations (SWE) and is written in JavaFX.
+* The application models coastal ocean dynamics such as tsunamis, tides, and storm surges utilizing Shallow Water Equations (SWE) and is written in JavaFX.
 * Utilizes continuity equation and momentum equations and discretizes these equations using a semi-explicit finite difference method and includes like nonlinear advection, wetting and drying, and variable wind stress.
 * Triggers a Gaussian-shaped wave pulse to model tsunami propagation for visualizing tsunami.
 * Simulates tides with single or combined tidal constituents (M2 and S2) for tidal forcing.
